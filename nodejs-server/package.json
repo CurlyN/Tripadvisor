@@ -1,0 +1,11 @@
+{
+  "name": "rawdashboard",
+  "private": true,
+  "description": "Dashboard server",
+  "version": "0.0.1",
+  "dependencies": {
+      "request": "2.65.0",
+      "express": "~4.13.3",
+      "linq": "~3.0.5"
+  }
+}

@@ -7,13 +7,12 @@
 /* Global Styles */
 
 body {
-    margin-top: 100px;
-    background-color: #222;
+    margin-top: 10px;
 }
 
 @media(min-width:768px) {
     body {
-        margin-top: 50px;
+        margin-top: 10px;
     }
 }
 
@@ -225,3 +224,9 @@ ul.alert-dropdown {
 .panel-yellow > a:hover {
     color: #df8a13;
 }
+
+.container-fluid{
+    margin-right: 20px !important;
+    margin-left: 20px !important;
+}
+

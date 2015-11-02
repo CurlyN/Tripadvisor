@@ -1,9 +1,11 @@
 // Morris.js Charts sample data for SB Admin template
 
-$(function() {
-
+ 
+//$(function() {
+/*$(function(){
+    
     // Donut Chart
-    Morris.Donut({
+   mainRoom = Morris.Donut({
         element: 'morris-donut-chart',
         data: [{
             label: "Occupied desks",
@@ -16,7 +18,7 @@ $(function() {
     });
 
     // Meeting room 1
-    Morris.Donut({
+   meetingRoom1 = Morris.Donut({
         element: 'morris-donut-chart-meeting-rooms1',
         data: [{
             label: "People in a room 1",
@@ -26,7 +28,7 @@ $(function() {
     });
 
       // Donut Chart
-    Morris.Donut({
+    meetingRoom2 = Morris.Donut({
         element: 'morris-donut-chart-meeting-rooms2',
         data: [{
             label: "People in a room 1",
@@ -34,6 +36,9 @@ $(function() {
         }],
         resize: true
     });
-
+    console.log("in da Morrison");
 
 });
+
+//});
+*/
